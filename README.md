@@ -81,19 +81,6 @@ O **Figma** foi utilizado para criar, organizar e apresentar os elementos da ide
 
 ---
 
-## 📁 Estrutura do repositório
-
-```text
-ID-visual/
-│
-├── 🎨 Atividade de identidade visual
-├── 🔤 Tipografia
-├── 🌈 Paleta de cores
-└── 📖 README.md
-```
-
----
-
 ## 📚 Contexto acadêmico
 
 📌 **Atividade:** Identidade Visual  
