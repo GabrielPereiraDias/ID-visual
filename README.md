@@ -101,5 +101,5 @@ A atividade reúne os principais elementos definidos para a identidade visual, c
 </p>
 
 <p align="center">
-  Feito com 💜 no Figma por <strong>Gabriel Pereira Dias</strong>
+  Feito com 💜 no Figma por <strong>Gabriel Pereira Dias </strong>
 </p>
