@@ -1,30 +1,53 @@
 # 🎨 ID Visual — Atividade Figma
 
-> Atividade de criação e organização de uma identidade visual desenvolvida no Figma.
+<p align="center">
+  <strong>✨ Identidade visual desenvolvida no Figma ✨</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-Design-purple?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Turma-1ID--DS-blue?style=for-the-badge" alt="Turma">
+</p>
+
+---
+
+## 🧑‍💻 Sobre o projeto
+
+Esta atividade foi desenvolvida no **Figma** com o objetivo de criar e organizar uma base de **identidade visual**, trabalhando cores, tipografia e diferentes estados visuais para manter um padrão consistente na interface.
+
+> 🎯 **Foco:** organização visual, padronização e criação de uma identidade para interfaces.
+
+---
 
 ## 👤 Identificação
 
-| Informação | Dados |
+| 📋 Informação | ✨ Dados |
 |---|---|
-| **Nome** | Gabriel Pereira Dias |
-| **Turma** | 1ID - DS |
-| **Ferramenta** | Figma |
+| 👨‍💻 **Nome** | Gabriel Pereira Dias |
+| 🏫 **Turma** | 1ID - DS |
+| 🎨 **Ferramenta** | Figma |
+| 📚 **Área** | Desenvolvimento de Sistemas |
 
-## 📌 Sobre a atividade
+---
 
-Nesta atividade foi desenvolvida uma base de identidade visual, organizando elementos que ajudam a manter um padrão visual consistente no projeto.
+## 🎨 O que foi desenvolvido
 
-## 🎨 Elementos desenvolvidos
+### 🌈 Paleta de cores
 
-### Paleta de cores
+Foi criada uma organização de cores para diferentes situações da interface, incluindo:
 
-A atividade apresenta uma organização de cores para diferentes situações da interface, incluindo cores **primárias**, estados de **CORRECT** e **DANGER**, além das versões **Light** e **Dark**.
+- 🎨 **Primário** — cor principal da identidade;
+- ✅ **CORRECT** — indicação de ações ou estados corretos;
+- ⚠️ **DANGER** — indicação de situações de atenção ou erro;
+- ☀️ **Light** — versão para tema claro;
+- 🌙 **Dark** — versão para tema escuro.
 
 ### 🔤 Tipografia
 
-A fonte utilizada foi a **Poppins**, com uma escala tipográfica organizada para diferentes níveis de texto:
+A fonte escolhida para a identidade visual foi a **Poppins**, utilizando uma escala tipográfica organizada para diferentes níveis de conteúdo.
 
-| Elemento | Tamanho |
+| 📝 Elemento | 📏 Tamanho |
 |---|---:|
 | Small | 14px |
 | Parágrafo | 16px |
@@ -34,19 +57,62 @@ A fonte utilizada foi a **Poppins**, com uma escala tipográfica organizada para
 | H2 | 34px |
 | H1 | 40px |
 
-## 🖌️ Ferramenta utilizada
+---
 
-- **Figma** — criação e organização da identidade visual.
+## 🧩 Organização visual
 
-## 📂 Organização
+A atividade foi estruturada pensando na reutilização dos elementos e na facilidade de manter um padrão visual durante o desenvolvimento de uma interface.
 
-Este repositório foi criado para registrar e apresentar a atividade de identidade visual realizada durante o curso de **Desenvolvimento de Sistemas**.
+**Principais elementos:**
 
-## ✨ Autor
-
-**Gabriel Pereira Dias**  
-**Turma:** 1ID - DS
+- 🎨 Cores e estados visuais;
+- 🔠 Hierarquia tipográfica;
+- ☀️🌙 Variações Light e Dark;
+- 🧱 Organização dos elementos no Figma;
+- ✨ Padronização da identidade visual.
 
 ---
 
-📚 *Atividade acadêmica — Desenvolvimento de Sistemas*
+## 🛠️ Ferramenta utilizada
+
+### 🔷 Figma
+
+O **Figma** foi utilizado para criar, organizar e apresentar os elementos da identidade visual da atividade.
+
+---
+
+## 📁 Estrutura do repositório
+
+```text
+ID-visual/
+│
+├── 🎨 Atividade de identidade visual
+├── 🔤 Tipografia
+├── 🌈 Paleta de cores
+└── 📖 README.md
+```
+
+---
+
+## 📚 Contexto acadêmico
+
+📌 **Atividade:** Identidade Visual  
+🎓 **Curso:** Desenvolvimento de Sistemas  
+🏫 **Turma:** 1ID - DS  
+👨‍💻 **Aluno:** Gabriel Pereira Dias
+
+---
+
+## ✨ Resultado
+
+A atividade reúne os principais elementos definidos para a identidade visual, criando uma base organizada para aplicação em interfaces e projetos futuros.
+
+---
+
+<p align="center">
+  <strong>🎨 Design • 🔤 Tipografia • 🌈 Cores • ✨ Identidade Visual</strong>
+</p>
+
+<p align="center">
+  Feito com 💜 no Figma por <strong>Gabriel Pereira Dias</strong>
+</p>
